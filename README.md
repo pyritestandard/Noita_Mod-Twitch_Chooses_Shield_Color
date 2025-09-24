@@ -69,3 +69,4 @@ Though, it's worth noting, using *gold* will cause lanterns and some enemies to 
 Type one of these to change my shield color: 
 blood, blue, darkblue, flum, green, grey, lava, lime, orange, pink, player, poo, purple, rainbow, red, scarlet, silver, skyblue, teal, white, or yellow
 ```
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M81GXWZK)
