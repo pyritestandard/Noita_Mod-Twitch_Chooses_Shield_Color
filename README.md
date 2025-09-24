@@ -56,4 +56,6 @@ For example, to add gold as an option you'd just add this line to the list under
 { material_id = "gold", display_name = "Gold", default_keyword = "gold", default_enabled = true },
 ```
 
-Though, it's worth noting, using *gold* will cause lanterns and some enemies to bleed gold powder.
+Though, it's worth noting, using *gold* will cause lanterns and some enemies to bleed gold powder. So, in case it's not clear, polymorphine will cause some enemies to bleed poly, ambrosia would cause them to bleed ambrosia.
+
+[You can find material ID's here.](https://noita.wiki.gg/wiki/Materials)
