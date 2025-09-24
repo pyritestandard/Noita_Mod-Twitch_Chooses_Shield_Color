@@ -42,8 +42,7 @@ end
 
 local function notify_success(username, source_name, target_name)
     local title = string.format("%s changed the shield color to %s", username, target_name)
-    local description = string.format("%s shifted %s into %s.", username, source_name, target_name)
-    GamePrintImportant(title, description, REWARD_IMAGE)
+    GamePrintImportant(title, REWARD_IMAGE)
 end
 
 local function get_material_name(material_id)
