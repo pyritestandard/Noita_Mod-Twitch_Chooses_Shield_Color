@@ -1,36 +1,26 @@
 # Noita Mod – Twitch Chooses Shield Color
 
-This mod lets Twitch viewers redeem a **channel point reward** that changes your shield color by shifting magical liquid to a chosen material.
-
----
+This mod lets Twitch viewers redeem a channel point reward that changes your shield color by shifting magical liquid to a chosen material.
 
 ## Requirements
 
 * [Config Lib](https://steamcommunity.com/sharedfiles/filedetails/?id=2287710542)
 * [Twitch Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=2258441901)
 
----
-
 ## Installation
 
 1. Drop the `twitch_picks_shield_color` folder into your Noita `mods` directory.
-2. In Noita, enable **Unsafe Mods** in the mod menu.
-
----
+2. In Noita, enable unsafe mods in the mod menu.
 
 ## Setup
 
 1. Open the **Config** menu → **Twitch Extended** tab.
 2. Scroll to the bottom of the tab to find this mod’s configuration settings.
-3. Create a **Channel Point Reward** on Twitch.
-
-   * **Note:** Input is required for this mod to work.
-4. Link the reward in-game.
+3. Create a **Channel Point Reward** on Twitch. (Input is required for this mod to work.)
+4. Click link the reward, in-game.
 5. Redeem the reward on Twitch.
 
 At this point, the mod should be working.
-
----
 
 ## Default Colors
 
@@ -54,18 +44,16 @@ foolsgold, mint
 
 ## Custom Colors
 
-Adding custom colors is straightforward:
+Adding custom colors is pretty easy:
 
 1. Open the mod folder.
-2. Find and open `add_channel_reward.lua` in a code editor (or Notepad).
-3. In the **material choices list** at the top, copy an existing entry and modify it.
+2. Find and open `add_channel_reward.lua` in a code editor (or even notepad).
+3. In the material choices list near the top, copy and paste an existing entry and modify it.
 
-**Example:** Adding gold as a shield color
+For example, to add gold as an option you'd just add this line to the list under poo:
 
 ```lua
 { material_id = "gold", display_name = "Gold", default_keyword = "gold", default_enabled = true },
 ```
 
-Note: Using `gold` will cause lanterns and some enemies to bleed **gold powder**.
-
----
+Though, it's worth noting, using *gold* will cause lanterns and some enemies to bleed gold powder.
