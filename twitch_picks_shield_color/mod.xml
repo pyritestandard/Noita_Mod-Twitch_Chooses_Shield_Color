@@ -1,6 +1,6 @@
 <Mod
     name="Twitch Picks Shield Color"
-    description="Adds a Twitch channel point reward that lets chat recolor shield via set fungal shifts."
+    description="Allows for Twitch chat to be able to change your shield color via channel point redemption."
     request_no_api_restrictions="0"
 >
     <Dependencies>
@@ -8,4 +8,5 @@
         <Dependency mod="config_lib" />
     </Dependencies>
 </Mod>
+
 
