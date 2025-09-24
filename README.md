@@ -29,7 +29,7 @@ At this point, the mod should be working.
 Enabled by default:
 
 ```
-blood, blue, darkblue, flum, green, grey, lava, lime, mint, orange, pink,
+blood, blue, darkblue, flum, green, grey, lava, lime, orange, pink,
 player, poo, purple, rainbow, red, scarlet, silver, skyblue, teal, white, yellow
 ```
 
@@ -61,3 +61,11 @@ For example, to add gold as an option you'd just add this line to the list under
 Though, it's worth noting, using *gold* will cause lanterns and some enemies to bleed gold powder. So, in case it's not clear, polymorphine will cause some enemies to bleed poly, ambrosia would cause them to bleed ambrosia.
 
 [You can find material ID's here.](https://noita.wiki.gg/wiki/Materials)
+
+---
+
+**NOTE**: It might help to give the viewers a list of words they can type, here's an example channel point reward description:
+```
+Type one of these to change my shield color: 
+blood, blue, darkblue, flum, green, grey, lava, lime, orange, pink, player, poo, purple, rainbow, red, scarlet, silver, skyblue, teal, white, or yellow
+```
