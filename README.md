@@ -31,7 +31,7 @@ blood, blue, darkblue, flum, green, grey, lava, lime, mint, orange, pink,
 player, poo, purple, rainbow, red, scarlet, silver, skyblue, teal, white, yellow
 ```
 
-Disabled by default *(cause lanterns and creatures that bleed magical liquid to instead bleed solid material, creating walls)*:
+Disabled by default *(because lanterns and creatures that bleed magical liquid to instead bleed solid material, creating walls)*:
 
 ```
 foolsgold, mint
