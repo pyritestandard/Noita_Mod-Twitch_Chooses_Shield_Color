@@ -40,8 +40,6 @@ local function reward_setting_key(flag)
     return string.format("twitch_extended_link_rewards_%s_%s", REWARD_ID, flag)
 end
 
-
-
 local function notify_success(username, source_name, target_name)
     local title = string.format("%s changed the shield color to %s", username, target_name)
     local description = string.format("%s shifted %s into %s.", username, source_name, target_name)
