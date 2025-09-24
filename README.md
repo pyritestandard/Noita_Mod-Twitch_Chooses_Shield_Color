@@ -4,8 +4,8 @@ This mod lets Twitch viewers redeem a channel point reward that changes your shi
 
 ## Requirements
 
-* [Config Lib](https://steamcommunity.com/sharedfiles/filedetails/?id=2287710542)
-* [Twitch Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=2258441901)
+* [Config Lib](https://github.com/EvaisaDev/Config-Lib) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2287710542)
+* [Twitch Extended](https://github.com/EvaisaDev/Twitch-Extended?tab=readme-ov-file) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2258441901)
 
 ## Installation
 
