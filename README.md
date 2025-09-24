@@ -53,7 +53,7 @@ Adding custom colors is pretty easy:
 For example, to add gold as an option you'd just add this line to the list under poo:
 
 ```lua
-{ material_id = "gold", display_name = "Gold", default_keyword = "gold", default_enabled = true },
+    { material_id = "gold", display_name = "Gold", default_keyword = "gold", default_enabled = true },
 ```
 
 Though, it's worth noting, using *gold* will cause lanterns and some enemies to bleed gold powder. So, in case it's not clear, polymorphine will cause some enemies to bleed poly, ambrosia would cause them to bleed ambrosia.
