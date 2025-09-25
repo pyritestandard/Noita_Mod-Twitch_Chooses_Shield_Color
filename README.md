@@ -1,5 +1,7 @@
 # Noita Mod – Twitch Chooses Shield Color
 
+![banner img](https://img001.prntscr.com/file/img001/5eSTvAbpRD2sC4Mv_P-h_g.png)
+
 This mod lets Twitch viewers redeem a channel point reward that changes your shield color by shifting magical liquid to a chosen material.
 
 **Download:** [Zip File](https://github.com/pyritestandard/Noita_Mod-Twitch_Chooses_Shield_Color/releases/download/v1.0.1/Twitch_Picks_Shield_Color_v1.0.1.zip)
@@ -21,6 +23,8 @@ This mod lets Twitch viewers redeem a channel point reward that changes your shi
 3. Create a **Channel Point Reward** on Twitch. (Input is required for this mod to work.)
 4. Click link the reward, in-game.
 5. Redeem the reward on Twitch.
+
+![Config Menu](https://img001.prntscr.com/file/img001/CFMRHJwhQiKPXhC835KyMQ.png)
 
 At this point, the mod should be working.
 
